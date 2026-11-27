@@ -12,11 +12,59 @@ I graduated from San José State University with a Bachelor of Science in Comput
 
 ### Worlds
 
+#### Interactive 3D Asset Library
+
+Placeholder description.
+
+*Sample tech stack*
+
+#### Apollo 15 Lunar Descent
+
+Placeholder description.
+
+*Sample tech stack*
+
+#### Fred: Lost in Space
+
+Placeholder description.
+
+*Sample tech stack*
+
+#### Slime Time
+
+Placeholder description.
+
+*Sample tech stack*
+
 ### Labs
 
 ### Systems
 
+#### STM32 Telemetry Console
+
+Placeholder description.
+
+*Sample tech stack*
+
 ### Apps
+
+#### Job Autofill
+
+Placeholder description.
+
+*Sample tech stack*
+
+#### Garden Monitor
+
+Placeholder description.
+
+*Sample tech stack*
+
+#### Music Directory
+
+Placeholder description.
+
+*Sample tech stack*
 
 ## Technical Skills
 
