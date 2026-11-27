@@ -42,6 +42,8 @@ Placeholder description.
 
 Placeholder description.
 
+---
+
 ### Labs
 
 ### Systems
@@ -51,6 +53,8 @@ Placeholder description.
 `C` · `STM32` · `FreeRTOS` · `Python` · `UART` · `I²C`
 
 An STM32 and MPU6050 stream motion data to a Python console for live plots, 3D orientation, recording, and replay. The browser demo uses simulated data and includes fault injection.
+
+---
 
 ### Apps
 
@@ -75,6 +79,8 @@ Placeholder description.
 **Tech stack** · *Sample tech stack*
 
 Placeholder description.
+
+---
 
 ## Technical Skills
 
