@@ -8,33 +8,39 @@ I graduated from San José State University with a Bachelor of Science in Comput
 
 ## Projects
 
-<p align="center"><a href="#worlds"><img src="assets/worlds.gif" width="24.9%" alt="Worlds"></a><a href="#labs"><img src="assets/labs.gif" width="24.9%" alt="Labs"></a><a href="#systems"><img src="assets/systems.gif" width="24.9%" alt="Systems"></a><a href="#apps"><img src="assets/apps.gif" width="24.9%" alt="Apps"></a></p>
+<p align="center"><a href="#user-content-worlds"><img src="assets/worlds.gif" width="24.9%" alt="Worlds"></a><a href="#user-content-labs"><img src="assets/labs.gif" width="24.9%" alt="Labs"></a><a href="#user-content-systems"><img src="assets/systems.gif" width="24.9%" alt="Systems"></a><a href="#user-content-apps"><img src="assets/apps.gif" width="24.9%" alt="Apps"></a></p>
 
 ### Worlds
 
 #### Interactive 3D Asset Library
 
+**Tech stack** · *Sample tech stack*
+
 Placeholder description.
 
-*Sample tech stack*
+---
 
 #### Apollo 15 Lunar Descent
 
+**Tech stack** · *Sample tech stack*
+
 Placeholder description.
 
-*Sample tech stack*
+---
 
 #### Fred: Lost in Space
 
+**Tech stack** · *Sample tech stack*
+
 Placeholder description.
 
-*Sample tech stack*
+---
 
 #### Slime Time
 
-Placeholder description.
+**Tech stack** · *Sample tech stack*
 
-*Sample tech stack*
+Placeholder description.
 
 ### Labs
 
@@ -42,29 +48,33 @@ Placeholder description.
 
 #### STM32 Telemetry Console
 
-Placeholder description.
+**Tech stack** · `C` · `STM32` · `FreeRTOS` · `Python` · `UART` · `I²C`
 
-*Sample tech stack*
+An STM32 and MPU6050 stream motion data to a Python console for live plots, 3D orientation, recording, and replay. The browser demo uses simulated data and includes fault injection.
 
 ### Apps
 
 #### Job Autofill
 
+**Tech stack** · *Sample tech stack*
+
 Placeholder description.
 
-*Sample tech stack*
+---
 
 #### Garden Monitor
 
+**Tech stack** · *Sample tech stack*
+
 Placeholder description.
 
-*Sample tech stack*
+---
 
 #### Music Directory
 
-Placeholder description.
+**Tech stack** · *Sample tech stack*
 
-*Sample tech stack*
+Placeholder description.
 
 ## Technical Skills
 
