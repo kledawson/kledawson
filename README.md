@@ -22,4 +22,4 @@ I graduated from San José State University with a Bachelor of Science in Comput
 
 ## Contacts
 
-<p align="right"><sub>Profile v6.4</sub></p>
+<p align="right"><sub>v6.4</sub></p>
