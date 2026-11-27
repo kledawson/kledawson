@@ -14,7 +14,7 @@ I graduated from San José State University with a Bachelor of Science in Comput
 
 #### Interactive 3D Asset Library
 
-**Tech stack** · *Sample tech stack*
+*Sample tech stack*
 
 Placeholder description.
 
@@ -22,7 +22,7 @@ Placeholder description.
 
 #### Apollo 15 Lunar Descent
 
-**Tech stack** · *Sample tech stack*
+*Sample tech stack*
 
 Placeholder description.
 
@@ -30,7 +30,7 @@ Placeholder description.
 
 #### Fred: Lost in Space
 
-**Tech stack** · *Sample tech stack*
+*Sample tech stack*
 
 Placeholder description.
 
@@ -38,7 +38,7 @@ Placeholder description.
 
 #### Slime Time
 
-**Tech stack** · *Sample tech stack*
+*Sample tech stack*
 
 Placeholder description.
 
@@ -60,7 +60,7 @@ An STM32 and MPU6050 stream motion data to a Python console for live plots, 3D o
 
 #### Job Autofill
 
-**Tech stack** · *Sample tech stack*
+*Sample tech stack*
 
 Placeholder description.
 
@@ -68,7 +68,7 @@ Placeholder description.
 
 #### Garden Monitor
 
-**Tech stack** · *Sample tech stack*
+*Sample tech stack*
 
 Placeholder description.
 
@@ -76,7 +76,7 @@ Placeholder description.
 
 #### Music Directory
 
-**Tech stack** · *Sample tech stack*
+*Sample tech stack*
 
 Placeholder description.
 
